@@ -1,4 +1,4 @@
-![logo](https://github.com/abkb/abkb/blob/main/laptop-1839876_1280.png](https://github.com/abkb/abkb/blob/main/business-g6cc37d452_640.jpg)
+![logo](https://github.com/abkb/abkb/blob/main/laptop-1839876_1280.png)
 # 💫 About Me
 I am scientist with big interest in using data to create solutions of economic, environmental, and social problems. I developed the expertise to work with longitudinal data collected from primary and secondary sources. However, curious to other fields where data has big impact and contribute with my transferrable skill sets.
 
