@@ -1,5 +1,6 @@
 #  
 About Me:
+
 I am scientist with big interest in using data to create solutions of economic, environmental, and social problems. I developed the expertise to work with longitudinal data collected from primary and secondary sources. However, curious to other fields where data has big impact and contribute with my transferrable skill sets.<br>During my scientific journey I learned a lot of concepts and developed a lot of skills, such us : Corporate Sustainability, Market Intelligence Analysis, Knowledge-based system, Survey Design, Data integration, data analysis, Data mining and Text Mining, Machine learning.<br>I am passionate to learn more about Data Science and Programming because I am a lifelong learner and believe that everyday there are tons of new things we can learn to be, even a bit, better than the person we were yesterday. <br>
 
 
