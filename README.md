@@ -13,7 +13,7 @@ I am scientist with big interest in using data to create solutions of economic, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abkb&theme=darcula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abkb&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Inspiration Data Science
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
