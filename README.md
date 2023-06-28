@@ -1,6 +1,6 @@
 ![logo](https://github.com/abkb/abkb/blob/main/christopher-gower-m_HRfLhgABo-unsplash.jpg)
 # 💫 About Me
-I am scientist with big interest in using data to create solutions of economic, environmental, and social problems. I developed the expertise to work with longitudinal data collected from primary and secondary sources. However, curious to other fields where data has big impact and contribute with my transferrable skill sets.
+I am scientist with big interest in using data to create solutions of economic, environmental, and social problems. I developed the expertise to work with longitudinal data collected from primary and secondary sources. However, I am curious to other fields where data has big impact and contribute with my transferrable skill sets.
 
 <br>During my scientific journey I learned a lot of concepts and developed a lot of skills, such us : Corporate Sustainability, Market Intelligence Analysis, Knowledge-based system, Survey Design, Data integration, data analysis, Data mining and Text Mining, Machine learning.
 
