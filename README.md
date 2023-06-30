@@ -2,7 +2,7 @@
 # 💫 About Me
 I am a data scientist and have been involved in the area of data science and analysis for nearly a decade. Coming from a diverse scientific background gives me a unique perspective in the world of technology, which I am using in order to produce actionable insights from large and complex datasets. I am scientist with big interest in using data to create solutions of economic, environmental, and social problems. I developed the expertise to work with longitudinal data collected from primary and secondary sources. However, I am curious to other fields where data has big impact and contribute with my transferrable skill sets.
 
-<br>During my scientific journey I learned a lot of concepts and developed a lot of skills, such us : Data Science & Modeling, Corporate Sustainability, Market Intelligence Analysis, Knowledge-based system, Survey Design, Data integration, data analysis, Data mining and Text Mining, Machine learning.
+<br>During my scientific journey I learned a lot of concepts and developed a lot of skills, such us : Data Science & Modeling, Statistical Analysis, Data mining and Text Mining, Survey Design, Corporate Sustainability, Market Intelligence Analysis, Knowledge-based system, Data integration, Machine learning.
 
 <br>I am passionate to learn more about Data Science and Programming because I am a lifelong learner and believe that everyday there are tons of new things we can learn to be, even a bit, better than the person we were yesterday. <br>
 
