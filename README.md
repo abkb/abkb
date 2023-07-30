@@ -16,14 +16,9 @@ I am a data scientist and have been involved in the area of data science and ana
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kibria.asmg@gmail.com) 
 
----
-[![](https://visitcount.itsvg.in/api?id=abkb &icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 ## ✍️ Inspiration Data Science
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abkb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
