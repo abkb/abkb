@@ -13,10 +13,10 @@ I am a data scientist and have been involved in the area of data science and ana
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abkb&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🌐 Socials
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abu Kibria, PhD) 
+<p align="left">
+<a href="https://linkedin.com/in/kibria.asmg@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kibria.asmg@gmail.com" height="30" width="40" /></a>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abkb &icon=0&color=0)](https://visitcount.itsvg.in)
