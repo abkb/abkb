@@ -29,7 +29,7 @@ I am a data scientist and have been involved in the area of data science and ana
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abkb&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kibria.asmg@gmail.com) 
+[![LinkedIn](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit) 
 
 ## ✍️ Inspiration Data Science
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
