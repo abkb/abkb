@@ -1,4 +1,4 @@
-![logo](https://github.com/abkb/abkb/blob/main/christopher-gower-m_HRfLhgABo-unsplash.jpg)
+![logo](https://github.com/abkb/abkb/blob/main/pexels-googledeepmind-17483874.jpg)
 # 💫 About Me
 I am a data scientist and have been involved in the area of data science and analysis for nearly a decade. Coming from a diverse scientific background provides me a unique perspective in the world of technology, which I am using in order to produce actionable insights from large and complex datasets. I am scientist with big interest in using data to create solutions of economic, environmental, and social problems. I developed the expertise to work with longitudinal data collected from primary and secondary sources. However, I am curious to other fields where data has big impact and contribute with my transferrable skill sets.
 
